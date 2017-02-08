@@ -1,0 +1,157 @@
+h3{
+	background-image: url(https://webster.cs.washington.edu/images/rancidbannerbg.png);
+	text-align:center;
+	height:50px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	width:100%;
+}
+
+
+body{  
+	background-image: url(https://webster.cs.washington.edu/images/moviebg.png);
+	font-family:Arial; 
+	margin:0px;
+	
+}
+
+h1{
+	text-align:center;
+	font-size: 24pt;
+	font-family: Georgia;
+	font-weight: bold;
+	text-shadow: 3px 3px #999999;
+
+}
+
+h2{
+	background-image: url(https://webster.cs.washington.edu/images/rottenlargebg.png);
+	color: red;
+	font-size: 48pt;
+	width:800px;
+	height:83px;
+	margin-left:auto;
+	margin-right:auto;
+	border-top-left-radius:20px;
+	border-top-right-radius: 20px;
+	margin-bottom: 2%;
+	margin-top: 20px;
+}
+
+#rating{vertical-align: 20%;}
+
+h2 img{border-radius: 20px;
+	}
+
+#main{
+	border-top-left-radius: 20px;
+	width:550px;
+	background-color: #EEEEEE;
+	height:1100px;
+}
+
+#content{
+	width:800px; 
+	background-color: #EEEEEE;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius:20px;
+	box-shadow: 5px 5px 5px grey;
+	margin-bottom: 60px;
+	
+}
+
+#left{
+	float:left;
+	width:47%;
+	padding-right:15px;
+	padding-left:5px;
+}
+blockquote{
+	font-size: 10pt;
+	margin-left:10px;
+	background-color: white;
+	border: 2px solid #CCCCCC;
+	border-radius:20px;
+	padding:8px;
+	margin-top: 1px;
+	margin-right:2px;
+	font-family: Georgia;
+	overflow: hidden;
+
+}
+
+blockquote img {
+	float:left;
+	padding-right:5px;
+}
+	
+#right{
+	float:left;
+	width:47%;
+	margin-right:0px;
+}
+
+p{
+	margin-left: 10px;
+	font-size:10pt;
+	padding-bottom: 10pt;
+	}
+
+
+p img{
+	float:left;
+	padding-right:5px;
+	padding-bottom: 10px;
+
+}
+
+.critic{font-style: italic; }
+
+
+#sidebar{
+	background-color: #A2B964;
+	width:250px;
+	font-family: Arial;
+	font-size:10pt;
+	float:right;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 5px;
+	height:1110px;
+}
+
+#sidebar img{
+	border-top-right-radius: 20px;
+	margin-bottom: 0px;
+}
+
+dt{
+	font-weight:bold;
+	margin-top:10px;
+}
+
+dl{
+	padding-left:10pt;
+	padding-right:10pt;
+}
+
+h6{
+	background-color:#A2B964;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-align:center;
+	margin-top:0px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius:20px;
+}
+
+#validators{
+	float:right;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+
+
+
